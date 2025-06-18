@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: url('https://www.transparenttextures.com/patterns/green-dust-and-scratches.png');
+  background-color: #e9f5e1;
+  margin: 0;
+  padding: 2rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
