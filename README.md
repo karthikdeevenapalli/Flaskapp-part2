@@ -4,7 +4,7 @@ Submitted by: **Karthik Deevenapalli**
 
 This web app: **is a plant-themed flashcard app that helps users test their knowledge of houseplants by flipping cards containing questions and answers, including images and difficulty categories. It includes features like guessing, feedback, streak tracking, shuffling, and mastered card removal.**
 
-Time spent: **10 hours** spent in total
+Time spent: **12 hours** spent in total
 
 ---
 
