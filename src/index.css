@@ -1,14 +1,66 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4fce3;
   text-align: center;
-  background: url('https://www.transparenttextures.com/patterns/green-dust-and-scratches.png');
-  background-color: #e9f5e1;
-  margin: 0;
   padding: 2rem;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin: 0.5rem 0;
+}
+
+.card-container {
+  margin: 1.5rem auto;
+}
+
+.guess-section {
+  margin: 1rem auto;
+}
+
+input[type="text"] {
+  padding: 0.4rem;
+  margin-left: 0.5rem;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 6px;
 }
 
 button {
   padding: 0.5rem 1rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
+  margin: 0.5rem;
+  border-radius: 8px;
+  border: none;
+  background-color: black;
+  color: white;
   cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover:not(:disabled) {
+  background-color: #333;
+}
+
+button:disabled {
+  background-color: #888;
+  cursor: not-allowed;
+}
+
+.feedback {
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
 }
