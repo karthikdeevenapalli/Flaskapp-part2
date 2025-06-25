@@ -56,7 +56,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='./project2-walkthrough.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
+<img src='./project3-walkthrough.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
 
 GIF created with **ScreenToGif**
 
